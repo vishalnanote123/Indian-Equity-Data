@@ -12,24 +12,23 @@ For Example Stock Performance Month_Wise
 
 Top 10 Performing Stock in Jan 2022
 
-SYMBOL        count           meanSYMBOL                          
 
-RELIANCE       16  163576.203125
+RELIANCE       
 
-TCS            16  138287.380625
+TCS            
 
-INFY           16  136848.767500
+INFY           
 
-HDFCBANK       16  129682.083750
+HDFCBANK       
 
-BAJFINANCE     16  121344.305000
+BAJFINANCE     
 
-TATAMOTORS     16  118322.496250
+TATAMOTORS     
 
-ICICIBANK      16  117055.693125
+ICICIBANK   
 
-AXISBANK       16  112123.322500
+AXISBANK       
 
-SBIN           16   99785.960625
+SBIN           
 
-TATASTEEL      16   92938.979375
+TATASTEEL      
